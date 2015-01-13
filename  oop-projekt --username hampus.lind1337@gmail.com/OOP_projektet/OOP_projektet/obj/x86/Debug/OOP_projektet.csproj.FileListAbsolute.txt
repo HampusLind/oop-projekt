@@ -1,0 +1,11 @@
+c:\users\gunther\documents\visual studio 2013\Projects\OOP_projektet\OOP_projektet\OOP_projektet\bin\x86\Debug\OOP_projektet.exe
+c:\users\gunther\documents\visual studio 2013\Projects\OOP_projektet\OOP_projektet\OOP_projektet\bin\x86\Debug\OOP_projektet.pdb
+c:\users\gunther\documents\visual studio 2013\Projects\OOP_projektet\OOP_projektet\OOP_projektet\obj\x86\Debug\OOP_projektet.csprojResolveAssemblyReference.cache
+c:\users\gunther\documents\visual studio 2013\Projects\OOP_projektet\OOP_projektet\OOP_projektet\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\gunther\documents\visual studio 2013\Projects\OOP_projektet\OOP_projektet\OOP_projektet\obj\x86\Debug\OOP_projektet.exe
+c:\users\gunther\documents\visual studio 2013\Projects\OOP_projektet\OOP_projektet\OOP_projektet\obj\x86\Debug\OOP_projektet.pdb
+c:\users\gunther\documents\visual studio 2013\Projects\OOP_projektet\OOP_projektet\OOP_projektet\bin\x86\Debug\Content\tank green.xnb
+c:\users\gunther\documents\visual studio 2013\Projects\OOP_projektet\OOP_projektet\OOP_projektet\bin\x86\Debug\Content\bakgrund.xnb
+C:\Users\Gunther\Documents\Visual Studio 2013\Projects\OOP_projektet\OOP_projektet\OOP_projektet\bin\x86\Debug\Content\isblock.xnb
+C:\Users\Gunther\Documents\Visual Studio 2013\Projects\OOP_projektet\OOP_projektet\OOP_projektet\bin\x86\Debug\Content\playershot.xnb
+C:\Users\Gunther\Documents\Visual Studio 2013\Projects\OOP_projektet\OOP_projektet\OOP_projektet\bin\x86\Debug\Content\game over.xnb
